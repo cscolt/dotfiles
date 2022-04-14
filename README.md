@@ -1,4 +1,5 @@
 # Forked from Tom Lawrence's Dot files with a couple additions of my own
+- https://github.com/lawrencesystems/dotfiles 
 
 
 # Installation
