@@ -142,7 +142,7 @@ fi
 curl http://www.wttr.in/flx
 
 #dad jokes
-curl -H "Accept: text/plain" https://icanhazdadjoke.com/
+curl -H "Accept: text/plain" https://icanhazdadjoke.com/ 
 
 
 source ~/github/dotfiles/qwe.sh
